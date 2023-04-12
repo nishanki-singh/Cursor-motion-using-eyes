@@ -1,5 +1,9 @@
 # Cursor-motion-using-eyes
 
+### Demo video:
+
+https://drive.google.com/file/d/1YP1Tb87vA3N9BZ_J3T8EIHrdnYx0CDRv/view?usp=share_link
+
 ### Description 
 
 The purpose of this application is to control cursor movements by just gazing at the screen and moving our face to drag it. <br>
@@ -8,6 +12,7 @@ This might help eliminate poverty by providing jobs to such people from this eye
 To make this project i used python language and <b> Opencv, Dlib, Pynput, PyQt5 <b> as Major Libraries.
 
 ### working
+
 At interface of the cursor movement application, the user needs to input the camera number, if it is a laptop camera then the default number value is 1, if the user has attached an external camera, then the user will input number 2 as a value and if multiple cameras are attached then user needs to input the correct camera number to run the application. 
 Now, After adding the camera number, the user needs to specify the aspect ratio of the camera which is used as a webcam. Most of the webcam comes with 4:3 as an aspect ratio so this application comes compatible with 4:3. But If the camera-input aspect ratio is 16:9 then the user needs to input selection in an aspect ratio checkbox. 
 After choosing the correct aspect ratio, the user will check whether a camera is flipped by default. If a webcam is flipped then the user will check the inverse camera button. It will reverse the flipping and tracking will happen in exact order. After choosing correct alternatives user needs to balance out the lighting with the help of illumination slider which helps in low light conditions. 
@@ -19,6 +24,7 @@ There are many pros of using this as in this application, Users can use it in-ga
 Now talking about the future scope, the user interface can be made more handy and attractive over time. Like we can add different functions for different eye and face gestures and will help increase the research in this field. Game functions can be made more advanced. In the upcoming updates, any individual in distress can be helped with communication to a far greater extent.
 
 #### To run the project, install the following dependencies:
+
 cmake==3.18.4.post1
 dlib==19.21.1
 numpy==1.20.1
@@ -30,8 +36,5 @@ PyQt5-stubs==5.14.2.2
 pywin32==300
 six==1.15.0
 
-### Demo video:
-
-https://drive.google.com/file/d/1YP1Tb87vA3N9BZ_J3T8EIHrdnYx0CDRv/view?usp=share_link
 
 
