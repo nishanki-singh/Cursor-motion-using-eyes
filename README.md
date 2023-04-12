@@ -25,16 +25,16 @@ Now talking about the future scope, the user interface can be made more handy an
 
 #### To run the project, install the following dependencies:
 
-cmake==3.18.4.post1
-dlib==19.21.1
-numpy==1.20.1
-opencv-python==4.5.1.48
-pynput==1.7.2
-PyQt5==5.15.2
-PyQt5-sip==12.8.1
-PyQt5-stubs==5.14.2.2
-pywin32==300
-six==1.15.0
+1. cmake==3.18.4.post1
+2. dlib==19.21.1
+3. numpy==1.20.1
+4. opencv-python==4.5.1.48
+5. pynput==1.7.2
+6. PyQt5==5.15.2
+7. PyQt5-sip==12.8.1
+8. PyQt5-stubs==5.14.2.2
+9. pywin32==300
+10. six==1.15.0
 
 
 
