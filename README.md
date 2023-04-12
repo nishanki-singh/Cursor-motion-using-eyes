@@ -9,7 +9,7 @@ https://drive.google.com/file/d/1YP1Tb87vA3N9BZ_J3T8EIHrdnYx0CDRv/view?usp=share
 The purpose of this application is to control cursor movements by just gazing at the screen and moving our face to drag it. <br>
 This application is beneficial for the physically disabled people who cannot use their hands to work on a computer so this would help them handle mouse events easily. <br>
 This might help eliminate poverty by providing jobs to such people from this eye-tracking technology with an interface of a handy computer. <br>
-To make this project i used python language and <b> Opencv, Dlib, Pynput, PyQt5 <b> as Major Libraries.
+To make this project, I used <b> Python </b> language and <b> Opencv, Dlib, Pynput, PyQt5 </b> as Major Libraries.
 
 ### working
 
